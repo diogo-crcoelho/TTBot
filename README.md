@@ -17,7 +17,7 @@ pip install -r reqs.txt
 
 3. Get CoinMarketCap API key as described in their [API Documentation](https://coinmarketcap.com/api/documentation/v1/)
 
-3. Save your keyss and secret in a `.env` on the main directory.Follow the example  file on the repository
+3. Save your keyss and secret in a `.env` on the main directory. Follow the example  file on the repository
 
 4. To run simply
 ```
