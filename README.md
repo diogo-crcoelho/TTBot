@@ -12,7 +12,7 @@ https://coinmarketcap.com/api/documentation/v1/
 ```
 pip install -r reqs.txt
 ```
-2. Enable Google Calendar API and download `credentials.json`, from the [Google Cloud Platform](https://console.cloud.google.com/apis/credentials)
+2. Follow from the [Google Cloud Platform](https://console.cloud.google.com/apis/credentials)
 
 3. Save your Pushbullet token in a `.env` on the main directory. Example on the repository
 
